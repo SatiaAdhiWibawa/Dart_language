@@ -17,7 +17,7 @@ void main() {
   mahasiswa.addAll(mahasiswa2);
   print(mahasiswa);
 
-  //  mengurutkan list sesuai abdjat
+  //  mengurutkan list sesuai abdjad
   mahasiswa.sort();
   print(mahasiswa);
 
